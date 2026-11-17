@@ -1,1 +1,10 @@
-# Databricks-project
+
+# Databricks Projects
+
+Data engineering projects built in Databricks with PySpark, SQL and Delta Lake.
+
+| Project | Description |
+|---|---|
+| [bank_platform](./bank_platform) | Simulator for 10 retail banking source systems |
+| [housing_market](./housing_market_star_schema) | UK housing data modelled as a star schema |
+| [sales-project](./sales-project) | Streaming sales pipeline with data quality checks |
