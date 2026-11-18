@@ -6,7 +6,7 @@
 # MAGIC %md
 # MAGIC # Retail Bank: Source System Simulator (Customer 360 + Transactions)
 # MAGIC
-# MAGIC Generates realistic, *deliberately messy* data from 10 source systems into a Unity Catalog **Volume**,
+# MAGIC Generates realistic data, *deliberately messy* data from 10 source systems into a Unity Catalog **Volume**,
 # MAGIC as files that Auto Loader can ingest. Built for **Databricks Free Edition** (serverless, no Kafka needed).
 # MAGIC
 # MAGIC | Landing folder | Simulates | Format | Messiness planted |
