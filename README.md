@@ -1,7 +1,7 @@
 
 # Databricks Projects
 
-Data engineering projects built in Databricks with PySpark, SQL and Delta Lake.
+Data engineering projects built in Databricks with PySpark, SQL and Delta Lake. Click a project name to open it
 
 | Project | Description |
 |---|---|
